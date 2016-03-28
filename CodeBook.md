@@ -3,8 +3,8 @@
 This file summarises the data in tidy_data_avg.txt
 
 ## Identifiers
-subject - The ID of the test subject
-activity - The type of activity performed when the corresponding measurements were taken
+Subject - The ID of the test subject
+Activity - The type of activity performed when the corresponding measurements were taken
 
 ## Data Fields Extracted
 [1] "Subject"                   "Activity"                  "tBodyAcc_MeanX"           
