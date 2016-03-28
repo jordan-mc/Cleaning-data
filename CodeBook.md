@@ -32,3 +32,12 @@ Activity - The type of activity performed when the corresponding measurements we
 [64] "fBodyBodyAccJerkMag_Std"   "fBodyBodyGyroMag_Mean"     "fBodyBodyGyroMag_Std"     
 [67] "fBodyBodyGyroJerkMag_Mean" "fBodyBodyGyroJerkMag_Std" 
 
+## Activity Labels
+1. WALKING
+2. WALKING_UPSTAIRS
+3. WALKING_DOWNSTAIRS
+4. SITTING
+5. STANDING
+6. LAYING
+
+
