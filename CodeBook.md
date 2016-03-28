@@ -4,6 +4,7 @@ This file summarises the data in tidy_data_avg.txt
 
 ## Identifiers
 Subject - The ID of the test subject
+
 Activity - The type of activity performed when the corresponding measurements were taken
 
 ## Data Fields Extracted
