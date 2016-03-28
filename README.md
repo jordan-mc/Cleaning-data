@@ -6,11 +6,14 @@ The experiments have been carried out with a group of 30 volunteers within an ag
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
 ## Analysis
-The analysis script:
+The run_analysis.R script does the following as per assignment guidelines:
 
 1. Merges the training and the test sets to create one data set
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
 3. Uses descriptive activity names to name the activities in the data set
 4. Appropriately labels the data set with descriptive variable names.
-5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject - called tidy_data_avg.txt.
+
+https://www.coursera.org/learn/data-cleaning/peer/FIZtT/getting-and-cleaning-data-course-project
+
 
